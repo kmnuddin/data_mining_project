@@ -1,0 +1,6 @@
+gamma 5.0
+hmmKappa 50.0
+nGlobalIters 2
+nGlobalItersBigChange 20
+startAlpha 10.0
+transAlpha 0.5

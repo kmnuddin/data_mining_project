@@ -1,0 +1,8 @@
+ECovMat eye
+MMat eye
+VMat eye
+min_covar 1e-08
+nu 0
+sF 1.0
+sM 1.0
+sV 1.0

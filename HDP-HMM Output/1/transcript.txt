@@ -1,0 +1,5 @@
+Dataset Summary:
+X Data
+  total size: 96000 units
+  batch size: 96000 units
+  num. batches: 1
